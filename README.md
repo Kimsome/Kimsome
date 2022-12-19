@@ -1,4 +1,4 @@
-                                                                        Hi, I’m @Kimsome
+Hi, I’m @Kimsome
 
 **About me**
 

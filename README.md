@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 api/top-langs?username=anuraghazra
 
-![Kimsome's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsome&count_private=true&show_icons=true&theme=tokyonight)
+![Kimsome's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsome&count_private=true&show_icons=true&theme=tokyonight)

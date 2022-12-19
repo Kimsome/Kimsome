@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kimsome
+                                                                        Hi, I’m @Kimsome
 
-## About me
+**About me**
 
 - 💼 FrontEnd Engineer
 

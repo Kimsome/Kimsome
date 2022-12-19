@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsome&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsome&count_private=true&show_icons=true&theme=merko)
